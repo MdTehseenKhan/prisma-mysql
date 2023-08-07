@@ -6,13 +6,13 @@
 npm i -D typescript node-ts @types/node nodemon
 ```
 
-### Initialize Typescript:
+Initialize Typescript:
 
 ```bash
 npx tsc --init
 ```
 
-### Install Prisma CLI
+Install Prisma CLI:
 
 ```bash
 npm i -D prisma
