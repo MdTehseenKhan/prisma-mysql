@@ -12,13 +12,13 @@ Initialize Typescript:
 npx tsc --init
 ```
 
-Install Prisma CLI:
+## Install Prisma CLI:
 
 ```bash
 npm i -D prisma
 ```
 
-## SetUp Prisma
+SetUp Prisma:
 
 ```bash
 npx prisma init --datasource-provider mysql
