@@ -45,7 +45,7 @@ model Post {
 }
 ```
 
-# 3. Create Tables in Database
+# 3. Migrate to Database
 
 ```bash
 npx prisma migrate dev --name init
